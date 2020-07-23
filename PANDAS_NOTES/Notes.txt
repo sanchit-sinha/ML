@@ -1,0 +1,10 @@
+1) Everty things has its documentation over google
+
+2) In pandas, actions end with paranthesis("()") while attributes dont
+	eg : df.head() , df.shape
+	
+3)Some important_shortcuts: Tab for autocompletion and Shift+Tab
+
+4)We can change diplay options in Pandas
+	For more information we can use pd.describe_option()
+	For more information on rows , we can use pd.describe_optine("rows")

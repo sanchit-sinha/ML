@@ -1,3 +1,9 @@
 # ML
 
-Contains tutorials for getting started with machine learning and few of my submissions :smirk:
+**BASIC ML**
+
+**DEEP LEARNING**
+
+***Contains few of my submission using Basic and deep machine learning***
+:smirk:
+

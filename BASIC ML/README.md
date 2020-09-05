@@ -1,7 +1,8 @@
 <h1><strong> BASIC MACHINE LEARNING </strong> </h1>
-<p> <strong> -PANDAS </strong></p>
-<p> <strong>-NUMPY </strong></p>
-<p> <strong> -MATPLOTLIB </strong></p>
-<p> <strong> -LINEAR REGRESSION </strong></p>
-<p> <strong> -CLASSIFICATION </strong></p>
-<p> <strong> -LOGISTIC REGRESSION </strong></p>
+
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg)  **PANDAS**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg)  **NUMPY**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg)  **MATPLOTLIB**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg)  **LINEAR REGRESSION**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg)  **CLASSIFICATION**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg)  **LOGISTIC REGRESSION**</br>

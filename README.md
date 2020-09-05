@@ -3,10 +3,8 @@
 <br>
 
 <h2 align="left"><strong> CONTAINS THE FOLLOWING : </strong> </h2>
-
-<p> <strong>-BASIC ML</strong> </p>
-<p><strong>-DEEP LEARNING </strong> </p>
-<p><strong>-PROJECTS</strong> </p>
-
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg) **BASIC ML**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg) **DEEP LEARNING**</br>
+![#1589F0](https://imgrp2.xiaolee.net/i/aHR0cHM6Ly9wbGFjZWhvbGQuaXQvMTUvMTU4OUYwLzAwMDAwMD90ZXh0PSs=.jpg) **PROJECTS**</br>
 
 
